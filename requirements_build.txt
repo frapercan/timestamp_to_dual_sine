@@ -3,5 +3,6 @@
 #
 -r requirements.txt
 
+python-sphinx
 bumpversion
 twine
