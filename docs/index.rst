@@ -15,7 +15,5 @@ Package
 .. automodule:: plantilla_programas_python.plantilla
    :members:
 
-.. autoclass:: bitfinex_extractor_influxdb.exchange_db_sync.DataSync
-   :members:
 
 
