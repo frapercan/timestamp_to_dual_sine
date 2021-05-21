@@ -68,4 +68,4 @@ Pero igualmente estára accesible para los desarrolladores bajo el directorio:
 
 /docs/_build/html
 
-![docs](https://github.com/BREKIADATA-SL/plantilla-programas-python/blob/main/imagenes/docs.png)
+![docs](https://github.com/BREKIADATA-SL/plantilla-programas-python/raw/main/imagenes/docs.png)
