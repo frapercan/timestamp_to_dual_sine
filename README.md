@@ -1,6 +1,8 @@
 ﻿# Plantilla de programas para Python
 
 ![pipy](https://badge.fury.io/py/plantilla-programas-python.svg)
+[![codecov](https://codecov.io/gh/BREKIADATA-SL/plantilla-programas-python/branch/main/graph/badge.svg?token=2T1J6LQTJE)](https://codecov.io/gh/BREKIADATA-SL/plantilla-programas-python)
+
 
 El objetivo de este repositorio es servir de referencia a las distintas herramientas que se están desarrollado dentro de la organización para estandar las siguientes funcionalidades en cada uno de los entornos de trabajo:
 
