@@ -16,7 +16,7 @@ def read(filename):
 
 setup(
     name="plantilla_programas_python",
-    version="0.0.0",
+    version="0.2.0",
     url="https://github.com/BREKIADATA-SL/plantilla-programas-python",
     license='MIT',
 

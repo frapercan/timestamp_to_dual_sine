@@ -1,7 +1,6 @@
 name: Python Tox
 
 on:
-  - push
   - pull_request
 
 jobs:
@@ -9,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [2.7, 3.6, 3.7, 3.8, 3.9]
+        python-version: [3.8]
 
     steps:
     - uses: actions/checkout@v1
@@ -19,7 +18,11 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
+        sudo apt-get update
         python -m pip install --upgrade pip
         pip install tox tox-gh-actions
+        sudo apt-get install python3-sphinx
+        pip install sphinx_rtd_theme
+
     - name: Test with tox
       run: tox
