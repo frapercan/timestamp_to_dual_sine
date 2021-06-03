@@ -12,7 +12,7 @@ Bienvenido a la documentación de prueba!
 
 Package
 =======
-.. automodule:: plantilla_programas_python.plantilla
+.. automodule:: timestamp_to_dual_sine.timestamp_to_dual_sine
    :members:
 
 

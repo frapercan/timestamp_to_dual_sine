@@ -15,15 +15,15 @@ def read(filename):
 
 
 setup(
-    name="plantilla_programas_python",
+    name="timestamp_to_dual_sine",
     version="0.3.0",
-    url="https://github.com/BREKIADATA-SL/plantilla-programas-python",
+    url="https://github.com/BREKIADATA-SL/timestamp_to_dual_sine",
     license='MIT',
 
     author="frapercan",
     author_email="frapercan1@alum.us.es",
 
-    description="Plantilla para programas en Python",
+    description="Transformar estampas de tiempo en señales periodicas a distintas frecuencias",
     long_description_content_type="text/x-rst",
     long_description=read("README.md"),
 

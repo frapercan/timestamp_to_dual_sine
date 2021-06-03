@@ -1,4 +1,4 @@
-from plantilla_programas_python.plantilla import EncapsulacionEnClase
+from timestamp_to_dual_sine.timestamp_to_dual_sine import EncapsulacionEnClase
 
 
 parametro1 = []

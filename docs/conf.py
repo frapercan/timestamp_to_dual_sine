@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Plantilla de Documentación para Python'
+project = 'Conversor de estampas de tiempo en Señales periodicas'
 copyright = '2021, frapercan'
 author = 'frapercan'
 
